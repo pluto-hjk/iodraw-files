@@ -34,7 +34,7 @@
         <mxCell id="upMsv4ksRSZShGpR6xMq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="upMsv4ksRSZShGpR6xMq-8" target="upMsv4ksRSZShGpR6xMq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="upMsv4ksRSZShGpR6xMq-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Linear&lt;/font&gt;&lt;/b&gt;&lt;div&gt;(C -&amp;gt; max(C//16, 8))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="upMsv4ksRSZShGpR6xMq-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Linear&lt;/font&gt;&lt;/b&gt;&lt;div&gt;(C -&amp;gt; max(C//16, &lt;font color=&quot;#ff3333&quot;&gt;8&lt;/font&gt;))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="138" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="upMsv4ksRSZShGpR6xMq-9" target="upMsv4ksRSZShGpR6xMq-10">
