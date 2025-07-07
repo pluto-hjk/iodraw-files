@@ -59,13 +59,13 @@
           <mxGeometry x="115" y="250" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-20" value="全连接块 (FC Block)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="70" width="130" height="30" as="geometry" />
+          <mxGeometry x="20" y="600" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-21" value="1x1 卷积层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="339" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="upMsv4ksRSZShGpR6xMq-22" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="248" width="50" height="30" as="geometry" />
+        <mxCell id="upMsv4ksRSZShGpR6xMq-22" value="深度可分离卷积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-30" y="475" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-28" value="(B, c2, H, W)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="480" width="90" height="30" as="geometry" />
