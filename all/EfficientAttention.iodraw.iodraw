@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="upMsv4ksRSZShGpR6xMq-36" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=default;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="210" width="1160" height="595" as="geometry" />
+          <mxGeometry x="-30" y="180" width="460" height="625" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-3" value="(B, C, H, W)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="292.5" width="70" height="30" as="geometry" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-46" value="SiLU 激活" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="upMsv4ksRSZShGpR6xMq-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="535" y="268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
