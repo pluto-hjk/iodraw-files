@@ -8,10 +8,10 @@
           <mxGeometry x="-40" width="1160" height="805" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-3" value="(B, C, H, W)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="270" width="70" height="30" as="geometry" />
+          <mxGeometry x="125" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;conv1&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Conv2d(1x1, C -&amp;gt; c2)&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="300" width="170" height="110" as="geometry" />
+          <mxGeometry x="130" y="290" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="upMsv4ksRSZShGpR6xMq-5" target="upMsv4ksRSZShGpR6xMq-4">
           <mxGeometry relative="1" as="geometry" />
