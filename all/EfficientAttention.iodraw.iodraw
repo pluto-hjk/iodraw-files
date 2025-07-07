@@ -29,13 +29,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-8" value="&lt;div&gt;Depthwise Conv2d(3x3, c2, groups=c2)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="102.5" y="470" width="225" height="30" as="geometry" />
+          <mxGeometry x="102.5" y="460" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="upMsv4ksRSZShGpR6xMq-9" target="upMsv4ksRSZShGpR6xMq-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-9" value="Pointwise Conv2d(1x1, c2 -&amp;gt; c2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="555" width="210" height="35" as="geometry" />
+          <mxGeometry x="110" y="540" width="210" height="35" as="geometry" />
         </mxCell>
         <mxCell id="upMsv4ksRSZShGpR6xMq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="upMsv4ksRSZShGpR6xMq-10" target="upMsv4ksRSZShGpR6xMq-11">
           <mxGeometry relative="1" as="geometry" />
